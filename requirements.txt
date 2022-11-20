@@ -1,0 +1,6 @@
+argparse
+colorama
+termcolor
+pathlib
+pycryptodome
+py7zr
