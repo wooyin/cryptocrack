@@ -93,3 +93,7 @@ $ python3 cryptocrack.py -m -k flag
 # 0x06 Problem
 - 遇到不支持的算法可以提交[Issues](https://github.com/wooyin/cryptocrack/issues)，共同完善解密算法库
 - 如在使用过程中发现Bug或有好的建议，欢迎提交[Issues](https://github.com/wooyin/cryptocrack/issues)
+
+# 0x07 License
+
+cryptocrack is licensed under the MIT License. See [LICENSE](LICENSE) for the full license text.
